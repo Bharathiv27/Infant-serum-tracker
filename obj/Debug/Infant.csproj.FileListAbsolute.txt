@@ -1,0 +1,73 @@
+E:\Project\Student Project 2023\B)Source\Infant's Serum Tracker\Infant\bin\Infant.dll.config
+E:\Project\Student Project 2023\B)Source\Infant's Serum Tracker\Infant\bin\Infant.dll
+E:\Project\Student Project 2023\B)Source\Infant's Serum Tracker\Infant\bin\Infant.pdb
+E:\Project\Student Project 2023\B)Source\Infant's Serum Tracker\Infant\bin\EntityFramework.dll
+E:\Project\Student Project 2023\B)Source\Infant's Serum Tracker\Infant\bin\EntityFramework.SqlServer.dll
+E:\Project\Student Project 2023\B)Source\Infant's Serum Tracker\Infant\bin\System.Web.Helpers.dll
+E:\Project\Student Project 2023\B)Source\Infant's Serum Tracker\Infant\bin\System.Web.Mvc.dll
+E:\Project\Student Project 2023\B)Source\Infant's Serum Tracker\Infant\bin\System.Web.Razor.dll
+E:\Project\Student Project 2023\B)Source\Infant's Serum Tracker\Infant\bin\System.Web.Webpages.Deployment.dll
+E:\Project\Student Project 2023\B)Source\Infant's Serum Tracker\Infant\bin\System.Web.Webpages.dll
+E:\Project\Student Project 2023\B)Source\Infant's Serum Tracker\Infant\bin\System.Web.Webpages.Razor.dll
+E:\Project\Student Project 2023\B)Source\Infant's Serum Tracker\Infant\bin\EntityFramework.xml
+E:\Project\Student Project 2023\B)Source\Infant's Serum Tracker\Infant\bin\EntityFramework.SqlServer.xml
+E:\Project\Student Project 2023\B)Source\Infant's Serum Tracker\Infant\bin\System.Web.Razor.xml
+E:\Project\Student Project 2023\B)Source\Infant's Serum Tracker\Infant\bin\System.Web.Webpages.xml
+E:\Project\Student Project 2023\B)Source\Infant's Serum Tracker\Infant\bin\System.Web.Webpages.Deployment.xml
+E:\Project\Student Project 2023\B)Source\Infant's Serum Tracker\Infant\bin\System.Web.Webpages.Razor.xml
+E:\Project\Student Project 2023\B)Source\Infant's Serum Tracker\Infant\bin\System.Web.Helpers.xml
+E:\Project\Student Project 2023\B)Source\Infant's Serum Tracker\Infant\bin\System.Web.Mvc.xml
+E:\Project\Student Project 2023\B)Source\Infant's Serum Tracker\Infant\obj\Debug\Infant.dll
+E:\Project\Student Project 2023\B)Source\Infant's Serum Tracker\Infant\obj\Debug\Infant.pdb
+E:\Project\Student Project 2023\B)Source\Infant's Serum Tracker\Infant\obj\Debug\Infant.Migrations.lio.resources
+E:\Project\Student Project 2023\B)Source\Infant's Serum Tracker\Infant\obj\Debug\Infant.csproj.GenerateResource.Cache
+E:\Project\Student Project 2023\B)Source\Dot Net\Infant's Serum Tracker\Infant\bin\Infant.dll.config
+E:\Project\Student Project 2023\B)Source\Dot Net\Infant's Serum Tracker\Infant\bin\Infant.dll
+E:\Project\Student Project 2023\B)Source\Dot Net\Infant's Serum Tracker\Infant\bin\Infant.pdb
+E:\Project\Student Project 2023\B)Source\Dot Net\Infant's Serum Tracker\Infant\bin\EntityFramework.dll
+E:\Project\Student Project 2023\B)Source\Dot Net\Infant's Serum Tracker\Infant\bin\EntityFramework.SqlServer.dll
+E:\Project\Student Project 2023\B)Source\Dot Net\Infant's Serum Tracker\Infant\bin\System.Web.Helpers.dll
+E:\Project\Student Project 2023\B)Source\Dot Net\Infant's Serum Tracker\Infant\bin\System.Web.Mvc.dll
+E:\Project\Student Project 2023\B)Source\Dot Net\Infant's Serum Tracker\Infant\bin\System.Web.Razor.dll
+E:\Project\Student Project 2023\B)Source\Dot Net\Infant's Serum Tracker\Infant\bin\System.Web.Webpages.Deployment.dll
+E:\Project\Student Project 2023\B)Source\Dot Net\Infant's Serum Tracker\Infant\bin\System.Web.Webpages.dll
+E:\Project\Student Project 2023\B)Source\Dot Net\Infant's Serum Tracker\Infant\bin\System.Web.Webpages.Razor.dll
+E:\Project\Student Project 2023\B)Source\Dot Net\Infant's Serum Tracker\Infant\bin\EntityFramework.xml
+E:\Project\Student Project 2023\B)Source\Dot Net\Infant's Serum Tracker\Infant\bin\EntityFramework.SqlServer.xml
+E:\Project\Student Project 2023\B)Source\Dot Net\Infant's Serum Tracker\Infant\bin\System.Web.Razor.xml
+E:\Project\Student Project 2023\B)Source\Dot Net\Infant's Serum Tracker\Infant\bin\System.Web.Webpages.xml
+E:\Project\Student Project 2023\B)Source\Dot Net\Infant's Serum Tracker\Infant\bin\System.Web.Webpages.Deployment.xml
+E:\Project\Student Project 2023\B)Source\Dot Net\Infant's Serum Tracker\Infant\bin\System.Web.Webpages.Razor.xml
+E:\Project\Student Project 2023\B)Source\Dot Net\Infant's Serum Tracker\Infant\bin\System.Web.Helpers.xml
+E:\Project\Student Project 2023\B)Source\Dot Net\Infant's Serum Tracker\Infant\bin\System.Web.Mvc.xml
+E:\Project\Student Project 2023\B)Source\Dot Net\Infant's Serum Tracker\Infant\obj\Debug\Infant.dll
+E:\Project\Student Project 2023\B)Source\Dot Net\Infant's Serum Tracker\Infant\obj\Debug\Infant.pdb
+E:\Project\Student Project 2023\B)Source\Dot Net\Infant's Serum Tracker\Infant\obj\Debug\Infant.csprojResolveAssemblyReference.cache
+E:\Project\Student Project 2023\B)Source\Dot Net\Infant's Serum Tracker\Infant\obj\Debug\Infant.Migrations.sss.resources
+E:\Project\Student Project 2023\B)Source\Dot Net\Infant's Serum Tracker\Infant\obj\Debug\Infant.csproj.GenerateResource.Cache
+E:\Z - DotNet\12)Infant's Serum Tracker\Infant\bin\Infant.dll.config
+E:\Z - DotNet\12)Infant's Serum Tracker\Infant\bin\Infant.dll
+E:\Z - DotNet\12)Infant's Serum Tracker\Infant\bin\Infant.pdb
+E:\Z - DotNet\12)Infant's Serum Tracker\Infant\bin\EntityFramework.dll
+E:\Z - DotNet\12)Infant's Serum Tracker\Infant\bin\EntityFramework.SqlServer.dll
+E:\Z - DotNet\12)Infant's Serum Tracker\Infant\bin\System.Web.Helpers.dll
+E:\Z - DotNet\12)Infant's Serum Tracker\Infant\bin\System.Web.Mvc.dll
+E:\Z - DotNet\12)Infant's Serum Tracker\Infant\bin\System.Web.Razor.dll
+E:\Z - DotNet\12)Infant's Serum Tracker\Infant\bin\System.Web.Webpages.Deployment.dll
+E:\Z - DotNet\12)Infant's Serum Tracker\Infant\bin\System.Web.Webpages.dll
+E:\Z - DotNet\12)Infant's Serum Tracker\Infant\bin\System.Web.Webpages.Razor.dll
+E:\Z - DotNet\12)Infant's Serum Tracker\Infant\bin\EntityFramework.xml
+E:\Z - DotNet\12)Infant's Serum Tracker\Infant\bin\EntityFramework.SqlServer.xml
+E:\Z - DotNet\12)Infant's Serum Tracker\Infant\bin\System.Web.Razor.xml
+E:\Z - DotNet\12)Infant's Serum Tracker\Infant\bin\System.Web.Webpages.xml
+E:\Z - DotNet\12)Infant's Serum Tracker\Infant\bin\System.Web.Webpages.Deployment.xml
+E:\Z - DotNet\12)Infant's Serum Tracker\Infant\bin\System.Web.Webpages.Razor.xml
+E:\Z - DotNet\12)Infant's Serum Tracker\Infant\bin\System.Web.Helpers.xml
+E:\Z - DotNet\12)Infant's Serum Tracker\Infant\bin\System.Web.Mvc.xml
+E:\Z - DotNet\12)Infant's Serum Tracker\Infant\obj\Debug\Infant.csprojResolveAssemblyReference.cache
+E:\Z - DotNet\12)Infant's Serum Tracker\Infant\obj\Debug\Infant.Migrations.sss.resources
+E:\Z - DotNet\12)Infant's Serum Tracker\Infant\obj\Debug\Infant.csproj.GenerateResource.Cache
+E:\Z - DotNet\12)Infant's Serum Tracker\Infant\obj\Debug\Infant.dll
+E:\Z - DotNet\12)Infant's Serum Tracker\Infant\obj\Debug\Infant.pdb
+E:\Z - DotNet\12)Infant's Serum Tracker\Infant\obj\Debug\Infant.Migrations.jjj.resources
+E:\Z - DotNet\12)Infant's Serum Tracker\Infant\obj\Debug\Infant.Migrations.jjjj.resources
